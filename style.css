@@ -74,7 +74,7 @@ p {
   text-transform: uppercase;
   color: white;
 }
-.
+
 
 #home {
   background-size: cover;
@@ -394,12 +394,12 @@ p {
 }
 @keyframes text_reveal {
   100% {
-    color: white;
+    color: rgb(89, 0, 255);
   }
 }
 @keyframes text_reveal_name {
   100% {
-    color: rgb(33, 22, 220);
+    color: rgb(255, 255, 255);
     font-weight: 500;
   }
 }
